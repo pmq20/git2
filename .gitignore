@@ -33,3 +33,7 @@
 *.su
 
 /build/
+
+# Clar test suite
+clar.suite
+.clarcache
